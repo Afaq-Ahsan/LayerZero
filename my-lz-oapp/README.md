@@ -1,3 +1,4 @@
+## https://docs.layerzero.network/v2/developers/evm/oft/quickstart
 # MyOFT - LayerZero OFT Deployment Guide
 
 This guide walks you through deploying and configuring a LayerZero Omnichain Fungible Token (OFT) on testnet.
