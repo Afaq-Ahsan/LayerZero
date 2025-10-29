@@ -39,6 +39,28 @@ Mint tokens on the destination chain.
 
 ✅ Expected Result
 
+
+## if token is already deployed and you want to bridge it with other token then the procedure is 
+
+🔮 Example Use Case
+
+Let’s say you already have $PHX on BSC.
+Now you want to let users move it to Ethereum.
+
+✅ You can:
+
+Deploy OFTAdapter on BSC referencing your $PHX token.
+
+Deploy OFT on Ethereum.
+
+Set them as peers.
+
+Users can bridge between them.
+
+On BSC: $PHX tokens get locked in the adapter.
+On Ethereum: $PHX tokens get minted 1:1.
+And vice versa.
+
 After running the scripts successfully:
 
 The contracts should be verified on their respective explorers.
