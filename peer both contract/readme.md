@@ -1,4 +1,5 @@
-🧩 LayerZero Token Bridge Setup Guide
+## https://docs.layerzero.network/v2/developers/evm/oft/quickstart
+##🧩 LayerZero Token Bridge Setup Guide
 Overview
 
 When deploying tokens using the LayerZero-provided example contracts, you may encounter an issue where the contracts are not verified on block explorers.
